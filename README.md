@@ -1,0 +1,2 @@
+# appointments-no-shows
+In this project, we'll be analysing data for 100k medical appointments in Brazil. Our focus is on identifying the key factors that can predict if a patient with show up for their scheduled appointments, which in turn, enables us to hypothesize ways to improve patient attendance and reduce no-shows. Missed appointments not only impact the health care system financially, but also, compromise the effectiveness of clinical providers and results in loss opportunity for the continuity of care of patients (Cashman et al, 2004).
